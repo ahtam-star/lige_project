@@ -1,6 +1,6 @@
 const sql = require('mssql');
 
-// （SQL Server 身份验证）
+// SQL Server 连接配置（SQL Server 身份验证）
 const config = {
   server: 'localhost',
   port: 1433,
